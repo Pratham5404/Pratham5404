@@ -34,19 +34,5 @@ I am a Computer Science undergraduate at The LNM Institute of Information Techno
 *   **LLMs & Frameworks:** LangChain, RAG Pipelines, OpenAI API, Anthropic API, FastAPI
 *   **DevOps & Tools:** Git, GitHub, Linux/Unix, Jupyter, Google Colab
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <!-- Dynamic Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratham5404&theme=react-dark&hide_border=true&area=true" alt="Pratham's Contribution Graph" width="100%" />
-
-  <br />
-
-  <!-- Main GitHub Stats Card with Total Commits -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratham5404&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Pratham's GitHub Stats" />
-
-  <!-- GitHub Streak Card -->
-  <img src="https://streak-stats.demolab.com?user=Pratham5404&theme=radical&hide_border=true" alt="Pratham's GitHub Streak" />
-</div>
 ---
 📫 **How to reach me:** [prathamg7088@gmail.com](mailto:prathamg7088@gmail.com) | [LinkedIn](https://linkedin.com/in/prathamgupta)
