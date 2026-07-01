@@ -36,9 +36,19 @@ I am a Computer Science undergraduate at The LNM Institute of Information Techno
 
 ### 📊 GitHub Stats
 
-<!-- You can generate dynamic stat cards using the github-readme-stats open-source tool -->
-[![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratham5404&show_icons=true&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham5404&layout=compact&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <!-- Main GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratham5404&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Pratham's GitHub Stats" />
 
+  <br />
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham5404&layout=compact&theme=radical&hide_border=true" alt="Pratham's Top Languages" />
+
+  <br />
+
+  <!-- GitHub Streak Card -->
+  <img src="https://streak-stats.demolab.com?user=Pratham5404&theme=radical&hide_border=true" alt="Pratham's GitHub Streak" />
+</div>
 ---
 📫 **How to reach me:** [prathamg7088@gmail.com](mailto:prathamg7088@gmail.com) | [LinkedIn](https://linkedin.com/in/prathamgupta)
